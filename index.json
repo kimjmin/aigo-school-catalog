@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-29T00:00:00Z",
+  "profiles": [
+    {
+      "path": "helpers/korean-writing.json",
+      "name": "국어 글쓰기 도우미",
+      "description": "중학생 글을 읽고 잘한 점 1가지와 고칠 점 2가지를 알려 줘요. 글을 대신 써 주지 않아요.",
+      "category": "custom_agent",
+      "author": "Lablup",
+      "icon": "📘",
+      "tags": [
+        "국어",
+        "글쓰기",
+        "중학교",
+        "피드백"
+      ],
+      "version": "1.0.0",
+      "kind": "agent_profile"
+    },
+    {
+      "path": "helpers/math-hint.json",
+      "name": "수학 풀이 도우미",
+      "description": "정답을 바로 알려 주지 않고, 단계별 힌트로 스스로 풀게 도와줘요.",
+      "category": "custom_agent",
+      "author": "Lablup",
+      "icon": "📐",
+      "tags": [
+        "수학",
+        "힌트",
+        "중학교",
+        "방정식"
+      ],
+      "version": "1.0.0",
+      "kind": "agent_profile"
+    },
+    {
+      "path": "helpers/english-conversation.json",
+      "name": "영어 회화 도우미",
+      "description": "영어로 짧게 대화하며 틀린 문장을 고쳐 주고, 이유를 한국어로 짧게 설명해요.",
+      "category": "custom_agent",
+      "author": "Lablup",
+      "icon": "🗣",
+      "tags": [
+        "영어",
+        "회화",
+        "중학교",
+        "문법교정"
+      ],
+      "version": "1.0.0",
+      "kind": "agent_profile"
+    },
+    {
+      "path": "helpers/science-inquiry.json",
+      "name": "과학 탐구 도우미",
+      "description": "궁금한 자연 현상을 탐구 질문으로 바꾸고, 관찰과 실험 계획을 함께 세워요.",
+      "category": "custom_agent",
+      "author": "Lablup",
+      "icon": "🔬",
+      "tags": [
+        "과학",
+        "탐구",
+        "중학교",
+        "실험"
+      ],
+      "version": "1.0.0",
+      "kind": "agent_profile"
+    },
+    {
+      "path": "squad-templates/middle-school-inquiry-report.json",
+      "name": "모둠 탐구 보고서팀",
+      "description": "탐구 주제 한 줄을 주면 모둠장, 자료 조사, 보고서 작성, 검토 담당이 나눠서 중학생 탐구 보고서 초안(1~2쪽)을 만들어요.",
+      "category": "research",
+      "author": "Lablup",
+      "icon": "🧑‍🤝‍🧑",
+      "tags": [
+        "중학교",
+        "모둠",
+        "탐구",
+        "보고서"
+      ],
+      "version": "1.0.0",
+      "kind": "squad_template"
+    }
+  ]
+}
