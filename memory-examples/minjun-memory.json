@@ -1,0 +1,120 @@
+{
+  "namespace": {
+    "id": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+    "name": "민준이의 학습 기록 (중1 예시)",
+    "description": "시연용 가상 중학생 페르소나. 학습 기록은 [날짜] 과목: 한 것 / 어려웠던 것 / 다음에 할 것 형식.",
+    "enabled": true,
+    "createdAt": "2026-10-26T08:00:00+09:00",
+    "updatedAt": "2026-10-29T21:00:00+09:00"
+  },
+  "entries": [
+    {
+      "id": "69a0efe0-d74d-4e87-924a-1ef6d7e31967",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "민준이는 중학교 1학년 학생이다.",
+      "source": "manual",
+      "tags": [
+        "프로필"
+      ],
+      "createdAt": "2026-10-26T08:00:00+09:00",
+      "updatedAt": "2026-10-26T08:00:00+09:00",
+      "metadata": {
+        "kind": "fact"
+      }
+    },
+    {
+      "id": "a6098e44-5665-4870-b919-25545b580599",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "민준이는 그림이나 예시로 설명하면 잘 이해하고, 긴 설명은 어려워한다.",
+      "source": "manual",
+      "tags": [
+        "성향"
+      ],
+      "createdAt": "2026-10-26T08:01:00+09:00",
+      "updatedAt": "2026-10-26T08:01:00+09:00",
+      "metadata": {
+        "kind": "preference"
+      }
+    },
+    {
+      "id": "32020c88-306e-48ba-91e2-088a1a67a7e1",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "민준이는 과학을 좋아하고, 영어 단어 외우기를 힘들어한다.",
+      "source": "manual",
+      "tags": [
+        "성향"
+      ],
+      "createdAt": "2026-10-26T08:02:00+09:00",
+      "updatedAt": "2026-10-26T08:02:00+09:00",
+      "metadata": {
+        "kind": "preference"
+      }
+    },
+    {
+      "id": "50660dee-e342-4cbf-8b0b-b443ca98faf5",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "민준이는 선생님과 하루 30분씩 공부하기로 약속했다.",
+      "source": "manual",
+      "tags": [
+        "약속"
+      ],
+      "createdAt": "2026-10-26T08:03:00+09:00",
+      "updatedAt": "2026-10-26T08:03:00+09:00",
+      "metadata": {
+        "kind": "fact"
+      }
+    },
+    {
+      "id": "45d4279f-34dd-4acb-ad14-f013ab5c7ce4",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "[10월 26일] 과학: 생물의 다양성, 우리 주변 생물 분류해 보기 / 어려웠던 것: 없음, 재미있어 함 / 다음에 할 것: 모둠 탐구 주제 정하기",
+      "source": "manual",
+      "tags": [
+        "학습기록",
+        "과학"
+      ],
+      "createdAt": "2026-10-26T20:00:00+09:00",
+      "updatedAt": "2026-10-26T20:00:00+09:00",
+      "metadata": {}
+    },
+    {
+      "id": "b68317ba-9c3e-4040-bc0d-c8022246bf9a",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "[10월 27일] 수학: 일차방정식 개념과 등식의 성질 / 어려웠던 것: 없음 / 다음에 할 것: 이항",
+      "source": "manual",
+      "tags": [
+        "학습기록",
+        "수학"
+      ],
+      "createdAt": "2026-10-27T20:00:00+09:00",
+      "updatedAt": "2026-10-27T20:00:00+09:00",
+      "metadata": {}
+    },
+    {
+      "id": "5e44f0b7-c1ef-45aa-8bea-2be690e60464",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "[10월 28일] 영어: 과거형 문장 만들기 / 어려웠던 것: go-went 같은 불규칙 동사 / 다음에 할 것: 불규칙 동사 10개 외우기",
+      "source": "manual",
+      "tags": [
+        "학습기록",
+        "영어"
+      ],
+      "createdAt": "2026-10-28T20:00:00+09:00",
+      "updatedAt": "2026-10-28T20:00:00+09:00",
+      "metadata": {}
+    },
+    {
+      "id": "9541016d-37ba-47d8-8c79-d237086e1358",
+      "namespaceId": "44b30bd2-bff6-4c59-8e6f-97e81309a1a0",
+      "content": "[10월 29일] 수학: 일차방정식 이항 / 어려웠던 것: 이항할 때 부호를 바꾸지 않는 실수 2번 / 다음에 할 것: 부호 복습 3문제, 일차방정식 활용 문제",
+      "source": "manual",
+      "tags": [
+        "학습기록",
+        "수학"
+      ],
+      "createdAt": "2026-10-29T20:00:00+09:00",
+      "updatedAt": "2026-10-29T20:00:00+09:00",
+      "metadata": {}
+    }
+  ]
+}
