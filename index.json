@@ -69,7 +69,7 @@
     {
       "path": "squad-templates/middle-school-inquiry-report.json",
       "name": "모둠 탐구 보고서팀",
-      "description": "탐구 주제 한 줄을 주면 모둠장, 자료 조사, 보고서 작성, 검토 담당이 나눠서 중학생 탐구 보고서 초안(1~2쪽)을 만들어요.",
+      "description": "탐구 주제 한 줄을 주면 모둠장, 자료 조사, 보고서 작성, 삽화, 검토 담당이 나눠서 표지 그림이 있는 중학생 탐구 보고서 초안(1~2쪽)을 만들어요.",
       "category": "research",
       "author": "Lablup",
       "icon": "🧑‍🤝‍🧑",
@@ -79,7 +79,7 @@
         "탐구",
         "보고서"
       ],
-      "version": "1.0.0",
+      "version": "1.1.0",
       "kind": "squad_template"
     }
   ]
